@@ -1,0 +1,15 @@
+# venvs
+**/.venv/
+# python cache
+__pycache__/
+*.pyc
+# configs locais / segredos
+.env
+backend/.env
+frontend/.env
+# dados locais
+**/data/
+# streamlit cache
+frontend/.streamlit/
+# VS Code
+.vscode/
