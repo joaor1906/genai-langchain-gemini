@@ -13,3 +13,5 @@ frontend/.env
 frontend/.streamlit/
 # VS Code
 .vscode/
+
+api key.txt
